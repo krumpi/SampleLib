@@ -1,4 +1,4 @@
-package com.venolve.lib
+package com.venolve
 
 class Sample {
   def sayHello = "Hello"
