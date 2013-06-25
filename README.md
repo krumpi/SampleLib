@@ -22,7 +22,7 @@ The workflow is as follow:
 realm=Artifactory Realm
 host=50.56.177.120
 user=venolve
-password=venolve
+password=******
 
 * start sbt
 
