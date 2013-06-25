@@ -1,6 +1,6 @@
-name          := "Venovle Sample Library"
+name          := "Venolve Sample Library"
 
-organization  := "venolve"
+organization  := "com.venolve"
 
 version       := "0.1-SNAPSHOT"
 
